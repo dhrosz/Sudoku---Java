@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Sudoku---Java.iml" filepath="$PROJECT_DIR$/.idea/modules/Sudoku---Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Sudoku---Java_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Sudoku---Java_main.iml" group="Sudoku---Java" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Sudoku---Java_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Sudoku---Java_test.iml" group="Sudoku---Java" />
       <module fileurl="file://$PROJECT_DIR$/.idea/formula1.iml" filepath="$PROJECT_DIR$/.idea/formula1.iml" />
     </modules>
   </component>
